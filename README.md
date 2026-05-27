@@ -5,7 +5,6 @@ This project analyzes betting company data to identify customer betting patterns
 
 ## Tools Used
 - Excel
-- SQL
 - Pivot Tables
 - Dashboards
 
@@ -17,5 +16,4 @@ This project analyzes betting company data to identify customer betting patterns
 ## Files
 - Dataset
 - Dashboard screenshots
-- SQL queries
 - Documentation
